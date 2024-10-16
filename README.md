@@ -1,7 +1,8 @@
 # Power-BI-Sales-Dashboard-for-Optimizing-Sales-and-Performance-Insights
 
 
-Project Overview
+#Project Overview
+
 This project involved the creation of a comprehensive and interactive sales dashboard using Power BI. The goal was to provide key stakeholders with real-time insights into product sales, market segmentation, and regional performance, enabling data-driven decision-making and enhanced profitability.
 
 Features
